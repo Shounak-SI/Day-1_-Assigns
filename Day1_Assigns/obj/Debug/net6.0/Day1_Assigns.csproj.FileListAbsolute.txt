@@ -1,0 +1,15 @@
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\bin\Debug\net6.0\Day1_Assigns.exe
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\bin\Debug\net6.0\Day1_Assigns.deps.json
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\bin\Debug\net6.0\Day1_Assigns.runtimeconfig.json
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\bin\Debug\net6.0\Day1_Assigns.dll
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\bin\Debug\net6.0\Day1_Assigns.pdb
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\Day1_Assigns.csproj.AssemblyReference.cache
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\Day1_Assigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\Day1_Assigns.AssemblyInfoInputs.cache
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\Day1_Assigns.AssemblyInfo.cs
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\Day1_Assigns.csproj.CoreCompileInputs.cache
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\Day1_Assigns.dll
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\refint\Day1_Assigns.dll
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\Day1_Assigns.pdb
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\Day1_Assigns.genruntimeconfig.cache
+C:\Users\shounak.jindam\Desktop\dotnet\Day1_Assigns\obj\Debug\net6.0\ref\Day1_Assigns.dll
